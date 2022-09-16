@@ -17,9 +17,6 @@ public class main {
             resp = sc.next().charAt(0);
         } while (resp != 'n');
 
-
-
-
             sc.close();
     }
 }
